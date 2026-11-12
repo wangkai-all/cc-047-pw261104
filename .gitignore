@@ -31,3 +31,9 @@ test-results/
 *.sqlite3-wal
 *.sqlite3-shm
 *.sqlite3-journal
+
+# Runtime data: sqlite db + uploaded/error files (untrusted uploads)
+/data/
+
+# Test caches
+.pytest_cache/

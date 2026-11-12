@@ -1,0 +1,7 @@
+order_id,customer,amount,remark
+ORD-1001,Beta 客户甲,999.99,beta 首批（与 alpha 主键重叠）
+ORD-1002,Beta 客户乙,77.00,beta 首批（与 alpha 主键重叠）
+ORD-1007,Beta 客户丙,42.00,beta 独有订单
+ORD-1008,Beta 客户丁,,金额缺失行
+ORD-1009,Beta 客户戊,66.00,beta 独有订单
+ORD-1010,Beta 客户己,15.00,beta 独有订单

@@ -1,0 +1,7 @@
+order_id,customer,amount,remark
+ORD-1001,Alpha 客户甲,120.50,alpha 首批
+ORD-1002,Alpha 客户乙,88.00,alpha 首批
+ORD-1003,Alpha 客户丙,bad-number,金额非法行
+ORD-1004,Alpha 客户丁,300.00,alpha 独有订单
+ORD-1005,,50.00,客户为空行
+ORD-1006,Alpha 客户己,-12.00,负金额行
